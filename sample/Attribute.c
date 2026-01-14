@@ -19,7 +19,7 @@
 
 int main(int argc, char **argv) {
 
-    char *siteId = "C000000037";
+    char *siteId = "C000000004";
     char *thingName = "999999.1324";
     char *authCode = "adf022d0824dc28c";
     char *userId = "";
