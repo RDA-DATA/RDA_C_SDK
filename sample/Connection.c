@@ -20,7 +20,7 @@ int main(int argc, char** argv)
 	char* userId = "";
 	char* userPw = "";
 
-	char* siteId =  "C000000037";
+	char* siteId =  "C000000004";
 	char* thingName = "999999.1324";
 
     // Utilize the basic information of the object as parameters.
